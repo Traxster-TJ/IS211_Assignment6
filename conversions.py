@@ -1,4 +1,4 @@
-# tempconversions.py
+# conversions.py
 
 def convertCelsiusToKelvin(celsius):
     return celsius + 273.15
